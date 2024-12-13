@@ -11,7 +11,7 @@ import { Head } from '@inertiajs/vue3';
             <h2
                 class="text-xl font-semibold leading-tight text-gray-800"
             >
-                Terseeart
+                Event
             </h2>
         </template>
 
